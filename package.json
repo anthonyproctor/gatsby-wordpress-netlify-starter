@@ -21,7 +21,7 @@
     "serve": "gatsby serve"
   },
   "dependencies": {
-    "gatsby": "^2.8.5",
+    "gatsby": "^2.24.80",
     "gatsby-image": "^2.1.2",
     "gatsby-plugin-feed": "^2.2.2",
     "gatsby-plugin-google-analytics": "^2.0.20",
@@ -39,7 +39,7 @@
     "gatsby-source-wordpress": "^3.0.64",
     "gatsby-transformer-remark": "^2.3.12",
     "gatsby-transformer-sharp": "^2.1.21",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.17",
     "prismjs": "^1.16.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
